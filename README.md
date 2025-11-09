@@ -158,6 +158,72 @@ contract NovalProfile {
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NvlFR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+### 🎖️ Badges & Milestones
+
+<div align="center">
+
+<!-- Achievement Badges -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
+      <br><sub>Quickdraw</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" />
+      <br><sub>Pull Shark</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" />
+      <br><sub>YOLO</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" />
+      <br><sub>Starstruck</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" />
+      <br><sub>Pair Extraordinaire</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" />
+      <br><sub>Galaxy Brain</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60" height="60" alt="Heart On Your Sleeve" />
+      <br><sub>Heart On Your Sleeve</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60" height="60" alt="Open Sourcerer" />
+      <br><sub>Open Sourcerer</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" height="60" alt="Arctic Code Vault" />
+      <br><sub>Arctic Code Vault</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60" height="60" alt="Public Sponsor" />
+      <br><sub>Public Sponsor</sub>
+    </td>
+  </tr>
+</table>
+
+<p><sub>🎯 Unlock achievements by contributing to open source, collaborating with others, and pushing boundaries!</sub></p>
+
+</div>
+
+---
+
 ## 💼 Core Competencies
 
 ```yaml
