@@ -1,88 +1,116 @@
-# 👋 Hey there, I'm Noval!
-
 <div align="center">
 
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Web3+Engineer+%7C+Blockchain+Architect;Smart+Contract+Developer+%F0%9F%92%8E;Building+Decentralized+Solutions;AI+%2B+Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Noval%20Faturrahman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Axiom%20Core%20%7C%20Automation%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descSize=16&descColor=a78bfa"/>
 
-<br />
+<br/>
 
-<!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NvlFR&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NvlFR?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
-  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-6366F1?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=NvlFR&label=Profile+Views&color=7c3aed&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/NvlFR?label=Followers&style=flat-square&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Location-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20AI-7c3aed?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-> **Blockchain Architect** | **Smart Contract Engineer** | **AI & Automation Developer**
+I'm a developer and founder of **Axiom Core** — a custom automation systems studio based in Indonesia 🇮🇩. I don't sell plugins, templates, or SaaS products. I build systems that integrate *directly* into my clients' workflows — clean, robust, and fully owned by them.
 
-I'm a passionate Web3 developer from Indonesia 🇮🇩, specializing in building **decentralized applications**, **DeFi protocols**, and **AI-powered automation tools**. My mission is to make Web3 and AI accessible to everyone while pushing the boundaries of blockchain technology.
+```typescript
+const noval = {
+  name    : "Noval Faturrahman",
+  alias   : "NvlFR",
+  company : "Axiom Core",
+  tagline : "Build systems that last. Automate what matters.",
+  location: "Indonesia 🇮🇩",
+  markets : ["Indonesia", "International", "China 🇨🇳"],
+  languages: ["Bahasa Indonesia", "English", "Mandarin"],
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+  stack: {
+    automation : ["Baileys", "whatsapp-web.js", "BuilderBot"],
+    ai         : ["Gemini API", "OpenAI", "LLM Orchestration"],
+    backend    : ["Node.js", "Python", "Express", "Fastify"],
+    frontend   : ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    database   : ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
+    infra      : ["Docker", "VPS", "Linux"],
+  },
 
-contract NovalProfile {
-    struct Developer {
-        string name;
-        string[] expertise;
-        string currentFocus;
-        string mission;
-    }
+  currentFocus: [
+    "Custom WhatsApp Automation Systems",
+    "AI Integration for Business Ops",
+    "Enterprise CRM & Internal Tools",
+    "Anti-ban, production-grade bot architecture",
+  ],
 
-    Developer public me = Developer({
-        name: "Noval Faturrahman",
-        expertise: [
-            "Smart Contract Development",
-            "DeFi Protocol Architecture", 
-            "Full-Stack Web3 Development",
-            "AI & Bot Automation"
-        ],
-        currentFocus: "Building next-gen DeFi platforms & AI-powered financial tools",
-        mission: "Democratizing access to blockchain technology"
-    });
-
-    function getMotivation() public pure returns (string memory) {
-        return "In crypto we trust, in code we verify, in AI we automate.";
-    }
-}
+  coreValues: ["Clean Code", "Robust", "Secure", "Maintainable"],
+  model     : "Project-based — clients own their system. No SaaS fees. Ever.",
+};
 ```
 
-### 🎯 What I'm Up To
+---
 
-- 🔭 **Currently Building:** AI Finance Manager (AMF), Web3 DebtTracker, NFT Marketplace
-- 🌱 **Learning:** Advanced DeFi, Layer 2 Solutions, Cross-chain Protocols, zkSync
-- 💡 **Interested In:** Bitcoin Lightning Network, MEV, Smart Contract Security
-- ⚡ **Fun Fact:** Can debug Solidity faster than a block confirmation time!
+## 🏢 Axiom Core
+
+> **"Axiom membangun sistem otomasi yang benar-benar custom — bukan plugin, bukan template, bukan SaaS. Setiap sistem diintegrasikan langsung ke workflow klien, dibangun dengan kode bersih, dan dirancang untuk bertahan dan berkembang."**
+
+| | |
+|---|---|
+| 🏢 **Business** | Axiom Core |
+| 💼 **Model** | Project-based (bukan SaaS) |
+| 🌏 **Market** | Indonesia · International · China |
+| 🗣️ **Languages** | Bahasa Indonesia · English · Mandarin |
+
+### ⚡ Spesialisasi
+
+```
+✅  WhatsApp Automation     —  Baileys / whatsapp-web.js
+✅  AI Integration          —  Gemini API & LLM Pipelines
+✅  Business Process Auto   —  CRM, Database, Internal Ops
+✅  Custom System Integ     —  Direct workflow integration
+```
+
+### 🏆 Keunggulan Kompetitif
+
+| Keunggulan | Penjelasan |
+|---|---|
+| 🎯 **100% Custom** | Tidak kaku, integrasi langsung ke sistem internal klien |
+| 🛡️ **Anti-Ban Tech** | Random delay + variasi pola pesan, zero risk ke nomor WA klien |
+| 🔍 **Transparan** | Klien paham cara kerja sistem yang mereka pakai |
+| 🧹 **Clean Code** | Robust, maintainable, mudah dikembangkan |
+| 💰 **No SaaS Fee** | Sekali bayar, sistem jadi milik klien sepenuhnya |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-
-### Frontend & Frameworks
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & Tools
+### ⚙️ Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 AI & Automation
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Automation](https://img.shields.io/badge/Process%20Automation-7c3aed?style=for-the-badge)
+
+### 🗄️ Database & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -91,57 +119,141 @@ contract NovalProfile {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AMF - AI Finance Manager</h3>
+      <h3 align="center">🤖 Axiom WA Engine</h3>
       <div align="center">
-        <p><strong>AI-powered financial assistant via WhatsApp</strong></p>
+        <p><strong>Enterprise-grade WhatsApp Automation</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Groq%20API-FF6B00?style=flat-square" />
-          <img src="https://img.shields.io/badge/Baileys-25D366?style=flat-square" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
         </p>
-        <p>Smart financial management powered by AI, accessible through WhatsApp for seamless money tracking and insights.</p>
+        <p>Custom WhatsApp bot engine with AI integration, anti-ban architecture, CRM sync, and zero SaaS dependencies. Built to run for years.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🏦 DebtTracker Web3</h3>
+      <h3 align="center">🚂 KAI Bot System</h3>
       <div align="center">
-        <p><strong>Decentralized debt management dApp</strong></p>
+        <p><strong>National Railway Automation (Enterprise)</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-          <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+          <img src="https://img.shields.io/badge/API%20Integration-7c3aed?style=flat-square" />
         </p>
-        <p>Transparent debt tracking on blockchain with smart contract automation and dispute resolution.</p>
+        <p>End-to-end automation system for Indonesia's national railway — train schedules, ticket ordering, and customer ops. Full IP ownership.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎨 NFT Marketplace</h3>
+      <h3 align="center">⚙️ Business Process Automation</h3>
       <div align="center">
-        <p><strong>Next-gen NFT trading platform</strong></p>
+        <p><strong>Internal ops, CRM & data pipeline automation</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         </p>
-        <p>Full-featured NFT marketplace with royalties, auctions, and gasless transactions.</p>
+        <p>Automating business workflows, CRM integrations, and data pipelines. Custom-built per client — no templates, no generic tools.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Lightning Wallet</h3>
+      <h3 align="center">🌐 Full-Stack Web Apps</h3>
       <div align="center">
-        <p><strong>Bitcoin Lightning Network wallet</strong></p>
+        <p><strong>Production-ready web applications</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
-          <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         </p>
-        <p>Instant Bitcoin payments with Lightning Network integration and QR code support.</p>
+        <p>Full-stack web applications with clean UI, robust backend, and scalable architecture. Built for real users and real traffic.</p>
       </div>
     </td>
   </tr>
 </table>
+
+---
+
+## 🐍 Snake Game
+
+> Click the image below to play Snake on a live demo, or add the **Platane/snk** GitHub Action to your repo to get an animated snake eating your contribution graph!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
+</div>
+
+<details>
+<summary>🎮 <b>How to add this animated snake to YOUR profile</b></summary>
+
+1. Create a new GitHub Actions workflow in your profile repo (`.github/workflows/snake.yml`):
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Replace the image src in your README with:
+```
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg
+```
+
+</details>
+
+---
+
+## 💼 Core Competencies
+
+```yaml
+WhatsApp Automation:
+  - Baileys & whatsapp-web.js (production-grade)
+  - Anti-ban architecture (random delay, message variation)
+  - Multi-session management & CRM sync
+  - AI-powered conversation flows
+
+AI Integration:
+  - Gemini API & OpenAI LLM pipelines
+  - RAG, Function Calling, Memory Management
+  - Flowise & LangChain orchestration
+  - Personality-consistent AI agents
+
+Backend Development:
+  - RESTful APIs & Node.js / Python services
+  - Database Design (SQL & NoSQL)
+  - Data pipelines & web scraping
+  - Authentication & Authorization
+
+Frontend Development:
+  - React & Next.js (App Router, SSR, SSG)
+  - TypeScript & Modern JavaScript
+  - TailwindCSS & Component Libraries
+  - Responsive & Accessible UI
+
+DevOps & Infra:
+  - Docker & containerization
+  - Linux VPS management & deployment
+  - Git & CI/CD workflows
+  - Environment & performance optimization
+```
 
 ---
 
@@ -161,92 +273,8 @@ contract NovalProfile {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NvlFR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=NvlFR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
-
-### 🎖️ Badges & Milestones
-
-<div align="center">
-
-<!-- Achievement Badges -->
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" height="60" alt="Quickdraw" />
-      <br><sub>Quickdraw</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" height="60" alt="Pull Shark" />
-      <br><sub>Pull Shark</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" height="60" alt="YOLO" />
-      <br><sub>YOLO</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" height="60" alt="Starstruck" />
-      <br><sub>Starstruck</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire" />
-      <br><sub>Pair Extraordinaire</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60" height="60" alt="Galaxy Brain" />
-      <br><sub>Galaxy Brain</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60" height="60" alt="Heart On Your Sleeve" />
-      <br><sub>Heart On Your Sleeve</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60" height="60" alt="Open Sourcerer" />
-      <br><sub>Open Sourcerer</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60" height="60" alt="Arctic Code Vault" />
-      <br><sub>Arctic Code Vault</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60" height="60" alt="Public Sponsor" />
-      <br><sub>Public Sponsor</sub>
-    </td>
-  </tr>
-</table>
-
-<p><sub>🎯 Unlock achievements by contributing to open source, collaborating with others, and pushing boundaries!</sub></p>
-
-</div>
-
----
-
-## 💼 Core Competencies
-
-```yaml
-Blockchain:
-  - Smart Contract Development (Solidity, Hardhat, Foundry)
-  - DeFi Protocol Architecture & Implementation
-  - NFT Standards (ERC-721, ERC-1155, ERC-4907)
-  - Gas Optimization & Security Best Practices
-  - Multi-signature & DAO Development
-
-Web3 Development:
-  - Full-stack dApp Development
-  - Web3.js & Ethers.js Integration
-  - IPFS & Decentralized Storage
-  - Wallet Integration (MetaMask, WalletConnect)
-  - Layer 2 Solutions (Polygon, Arbitrum, Optimism)
-
-AI & Automation:
-  - WhatsApp Bot Development
-  - AI-powered Financial Tools
-  - Process Automation & Scripting
-  - Data Analysis & Visualization
-```
 
 ---
 
@@ -257,7 +285,7 @@ AI & Automation:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NovalFaturrahman)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NvlFR)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novalftr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Axiom Core](https://img.shields.io/badge/Axiom%20Core-Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -265,12 +293,10 @@ AI & Automation:
 
 <div align="center">
 
-### 💎 *"In crypto we trust, in code we verify, in AI we automate."*
+### 💡 *"Build systems that last. Automate what matters."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=Axiom%20Core%20%E2%80%94%20Built%20different.&fontSize=18&fontColor=a78bfa&animation=fadeIn" width="100%"/>
 
-**⭐ If you believe in the decentralized future, star this profile!**
-
-![Made with ❤️ by Noval](https://img.shields.io/badge/Made%20with%20❤️%20by-Noval-6366F1?style=for-the-badge)
+![Made with by Noval](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Noval%20%40%20Axiom%20Core-7c3aed?style=for-the-badge)
 
 </div>
