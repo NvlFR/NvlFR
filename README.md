@@ -142,30 +142,9 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
 </table>
 
 ---
-
-## 💼 Core Competencies
-
-```yaml
-AI & LLM Engineering:
-  - LLM API integration (OpenAI, Claude, Gemini)
-  - AI agent design and orchestration
-  - Prompt engineering and optimization
-  - RAG pipelines and memory management
-  - AI chatbot systems for business use cases
-
-Workflow Automation:
-  - n8n and Make.com automation design
-  - Multi-step automation pipelines
-  - App-to-app API integrations
-  - Business process optimization
-  - Content generation automation
-
-Development:
-  - JavaScript / TypeScript (Node.js, backend scripting)
-  - React & Next.js (frontend for AI products)
-  - REST API design and integration
-  - Docker & Linux (deployment & infra)
-```
+<div align="center">
+  <img src="./assets/competencies.svg" alt="Core Competencies" width="100%"/>
+</div>
 
 ---
 
