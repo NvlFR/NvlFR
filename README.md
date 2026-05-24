@@ -151,12 +151,12 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NvlFR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NvlFR&layout=compact&theme=github_dark&border_radius=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NvlFR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NvlFR&layout=compact&theme=tokyonight&border_radius=10&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NvlFR&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NvlFR&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -164,7 +164,7 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NvlFR&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NvlFR&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
