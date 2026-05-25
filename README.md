@@ -18,10 +18,10 @@
 
 ## 🤖 About Me
 
-I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM-powered systems, and business automation pipelines. I connect AI models to real-world processes — making businesses faster, smarter, and more scalable.
+I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM-powered systems, and business automation pipelines. I connect AI models to real-world processes making businesses faster, smarter, and more scalable.
 
 <div align="center">
-  <img src="./assets/workflow.svg" alt="Noval — AI Automation Engineer workflow" width="100%"/>
+  <img src="./assets/workflow.svg" alt="Noval AI Automation Engineer workflow" width="100%"/>
 </div>
 
 ---
@@ -36,17 +36,17 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Workflow Automation</h3>
-      <p>Designing and deploying no-code/low-code automation pipelines with <strong>n8n</strong> and <strong>Make.com</strong> — connecting apps, APIs, and AI models into seamless automated workflows.</p>
+      <p>Designing and deploying no-code/low-code automation pipelines with <strong>n8n</strong> and <strong>Make.com</strong> connecting apps, APIs, and AI models into seamless automated workflows.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📝 AI Content Automation</h3>
-      <p>End-to-end pipelines for automated content generation — captions, hooks, post ideas, and more. Prompt-optimized, API-based, and built to run at scale.</p>
+      <p>End-to-end pipelines for automated content generation captions, hooks, post ideas, and more. Prompt-optimized, API-based, and built to run at scale.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔗 API & System Integration</h3>
-      <p>Connecting disparate systems through custom API integrations and automation pipelines. If two tools should talk to each other — I make it happen.</p>
+      <p>Connecting disparate systems through custom API integrations and automation pipelines. If two tools should talk to each other I make it happen.</p>
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
           <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         </p>
-        <p>Custom AI chatbot integrations using OpenAI and Claude APIs — from customer-facing bots to internal productivity assistants.</p>
+        <p>Custom AI chatbot integrations using OpenAI and Claude APIs from customer-facing bots to internal productivity assistants.</p>
       </div>
     </td>
   </tr>
@@ -135,7 +135,7 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         </p>
-        <p>Clean, production-ready web interfaces built with React and Next.js — purpose-built for AI tools and automation dashboards.</p>
+        <p>Clean, production-ready web interfaces built with React and Next.js purpose-built for AI tools and automation dashboards.</p>
       </div>
     </td>
   </tr>
