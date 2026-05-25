@@ -201,6 +201,6 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
 
 ### 💡 *"Connect AI to everything. Automate what matters."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=100&section=footer&text=AI%20Automation%20Engineer%20%E2%80%94%20Noval%20Faturrahman&fontSize=16&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=100&section=footer&text=AI%20Automation%20Engineer%20%20Noval%20Faturrahman&fontSize=16&fontColor=58a6ff&animation=fadeIn" width="100%"/>
 
 </div>
