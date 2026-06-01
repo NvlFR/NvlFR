@@ -151,8 +151,8 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NvlFR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NvlFR&layout=compact&theme=github_dark&border_radius=10&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NvlFR&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NvlFR&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
