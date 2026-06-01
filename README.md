@@ -186,6 +186,7 @@ I'm an **AI Automation Engineer** focused on building intelligent workflows, LLM
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/novalfaturrahman-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NvlFR)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noval.faturrahmn@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-238636?style=for-the-badge&logo=readthedocs&logoColor=white)](./resume/Noval_Faturrahman_AI_Automation_Engineer.pdf)
 
 </div>
 
